@@ -13,9 +13,11 @@
     "duplexer2": "^0.1.4",
     "request": "^2.88.2",
     "split2": "^3.1.1",
+    "stream-combiner": "^0.2.2",
     "through2": "^3.0.1",
     "trumpet": "^1.7.2",
     "websocket-stream": "^5.5.2",
-    "ws": "^7.3.0"
+    "ws": "^7.3.0",
+    "zlib": "^1.0.5"
   }
 }
